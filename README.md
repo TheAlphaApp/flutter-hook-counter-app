@@ -1,6 +1,8 @@
-# flutter_hook_counter_app
+# Flutter counter App using Hooks
+### flutter_hook_counter_app
 
-A new Flutter project.
+This is an example of counter app made with flutter using [flutter_hooks](https://pub.dev/packages/flutter_hooks) package. This can help you to understand some basic concept of flutter hooks.
+### Please Star💫 it to show some support.
 
 ## Getting Started
 
