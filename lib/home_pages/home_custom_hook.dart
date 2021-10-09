@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import '../timer_hook.dart';
+import '../hooks/timer_hook.dart';
 
 class HomePageCustomHook extends HookWidget {
   const HomePageCustomHook({Key? key}) : super(key: key);
